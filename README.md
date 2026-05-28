@@ -43,3 +43,15 @@ will experience serious financial distress in the next two years.
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 ## 📁 Structure
+credit-risk-prediction/
+│
+├── credit_risk_prediction.ipynb   # Main notebook
+├── eda_plots.png                  # Exploratory analysis plots
+├── model_evaluation.png           # Model comparison plots
+└── README.md
+
+## ▶️ How to Run
+
+1. Download the dataset from [Kaggle](https://www.kaggle.com/c/GiveMeSomeCredit)
+2. Open `credit_risk_prediction.ipynb` in Google Colab or Jupyter
+3. Upload `cs-training.csv` and run all cells
